@@ -2,7 +2,10 @@
 include "./../App/configuracao.php";
 include "./../App/Libraries/Rota.php";
 include "./../App/Libraries/Controller.php";
+<<<<<<< HEAD
 include "./../App/Libraries/database.php"
+=======
+>>>>>>> 34dd33a1f02d0ce8d6de5cb4a3ac254e22bb3d09
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
